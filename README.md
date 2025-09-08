@@ -1,4 +1,4 @@
-# 📌 Task-02: Pixel Manipulation Image Encryption
+# 📌 2: Pixel Manipulation Image Encryption
 
 ## 📖 Introduction
 This project demonstrates **image encryption** using pixel manipulation. By changing pixel values through mathematical operations or swapping, the image becomes unreadable and is restored only through decryption.
